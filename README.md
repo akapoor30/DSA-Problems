@@ -11,16 +11,19 @@ will commit every question solutions that I submit
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -30,6 +33,7 @@ will commit every question solutions that I submit
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
