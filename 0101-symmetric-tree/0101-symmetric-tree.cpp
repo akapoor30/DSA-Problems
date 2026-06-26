@@ -23,6 +23,6 @@ public:
                 isSym(left->right,right->left);
     }
     bool isSymmetric(TreeNode* root) {
-        return (root==NULL) && isSym(root->left,root->right);
+        return (root==NULL) || isSym(root->left,root->right);
     }
 };
