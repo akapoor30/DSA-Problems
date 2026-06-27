@@ -7,6 +7,7 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akapoor30/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akapoor30/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -40,6 +41,7 @@ will commit every question solutions that I submit
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akapoor30/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akapoor30/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -66,4 +68,8 @@ will commit every question solutions that I submit
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akapoor30/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akapoor30/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
