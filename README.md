@@ -28,6 +28,7 @@ will commit every question solutions that I submit
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akapoor30/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ will commit every question solutions that I submit
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akapoor30/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akapoor30/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akapoor30/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
@@ -109,6 +111,7 @@ will commit every question solutions that I submit
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akapoor30/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akapoor30/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -123,6 +126,7 @@ will commit every question solutions that I submit
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akapoor30/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akapoor30/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
