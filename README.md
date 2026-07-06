@@ -46,6 +46,7 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/akapoor30/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akapoor30/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Tree
 |  |
@@ -60,6 +61,7 @@ will commit every question solutions that I submit
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/akapoor30/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akapoor30/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akapoor30/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
