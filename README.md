@@ -149,4 +149,8 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akapoor30/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
