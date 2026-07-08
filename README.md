@@ -6,6 +6,7 @@ will commit every question solutions that I submit
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akapoor30/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -16,6 +17,7 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/akapoor30/DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -57,6 +59,7 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akapoor30/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/akapoor30/DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -68,6 +71,7 @@ will commit every question solutions that I submit
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1288-remove-covered-intervals](https://github.com/akapoor30/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akapoor30/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -80,6 +84,7 @@ will commit every question solutions that I submit
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akapoor30/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
