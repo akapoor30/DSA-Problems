@@ -126,6 +126,7 @@ will commit every question solutions that I submit
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/akapoor30/DSA-Problems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akapoor30/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
