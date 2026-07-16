@@ -32,6 +32,7 @@ will commit every question solutions that I submit
 | [0513-find-bottom-left-tree-value](https://github.com/akapoor30/DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/akapoor30/DSA-Problems/tree/master/2236-root-equals-sum-of-children) |
@@ -87,6 +88,7 @@ will commit every question solutions that I submit
 | [0513-find-bottom-left-tree-value](https://github.com/akapoor30/DSA-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/akapoor30/DSA-Problems/tree/master/2236-root-equals-sum-of-children) |
@@ -236,4 +238,5 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
