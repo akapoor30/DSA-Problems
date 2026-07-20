@@ -100,6 +100,7 @@ will commit every question solutions that I submit
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/akapoor30/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/akapoor30/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -191,6 +192,7 @@ will commit every question solutions that I submit
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akapoor30/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akapoor30/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -267,4 +269,8 @@ will commit every question solutions that I submit
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/akapoor30/DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akapoor30/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
