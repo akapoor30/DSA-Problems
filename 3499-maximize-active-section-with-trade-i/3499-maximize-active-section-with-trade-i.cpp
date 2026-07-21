@@ -6,17 +6,21 @@ public:
         int flag = 1;
         int temp=0;
         
-        int i =0;
-        while(i<s.size()){
+        for(int i = 0; i<s.size();i++){
+            int start =i;
             if(s[i]=='0'){
-                int start =i;
-                while(i<s.size() && s[i] == '0')i++;
+                while(i<s.size() && s[i] == '0'){
+                    i++;
+                }
                 zero.push_back(i-start);
-            }else{
+                i--;
+            }
+            else{
                 count1++;
-                i++;
             }
         }
+        // if(temp>0)
+        //     zero.push_back(temp);
         for(int i =0;i<zero.size();i++){
             cout<<zero[i] ;
         }
@@ -24,8 +28,8 @@ public:
 
         int ans = 0;
         
-        for(int i =1;i<zero.size();i++){
-            ans = max(ans,zero[i] + zero[i-1]);
+        for(int i =0;i<(int)zero.size()-1;i++){
+            ans = max(ans,zero[i] + zero[i+1]);
             // cout<<zero[i] << " "<<zero[i+1];
 
         }
