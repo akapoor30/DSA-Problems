@@ -118,6 +118,7 @@ will commit every question solutions that I submit
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0485-max-consecutive-ones](https://github.com/akapoor30/DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akapoor30/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
@@ -249,12 +250,14 @@ will commit every question solutions that I submit
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akapoor30/DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akapoor30/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akapoor30/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akapoor30/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -330,4 +333,12 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akapoor30/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
