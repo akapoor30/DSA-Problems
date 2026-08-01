@@ -117,6 +117,7 @@ will commit every question solutions that I submit
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0485-max-consecutive-ones](https://github.com/akapoor30/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akapoor30/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
