@@ -124,6 +124,7 @@ will commit every question solutions that I submit
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/akapoor30/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akapoor30/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/akapoor30/DSA-Problems/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akapoor30/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/akapoor30/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akapoor30/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
