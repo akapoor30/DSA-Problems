@@ -8,6 +8,7 @@ will commit every question solutions that I submit
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0645-set-mismatch](https://github.com/akapoor30/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/akapoor30/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -78,6 +79,7 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/akapoor30/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/akapoor30/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/akapoor30/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akapoor30/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +122,7 @@ will commit every question solutions that I submit
 | [0485-max-consecutive-ones](https://github.com/akapoor30/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akapoor30/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/akapoor30/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
@@ -276,6 +279,7 @@ will commit every question solutions that I submit
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akapoor30/DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/akapoor30/DSA-Problems/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akapoor30/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
