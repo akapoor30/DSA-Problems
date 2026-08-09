@@ -372,10 +372,12 @@ will commit every question solutions that I submit
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
