@@ -129,6 +129,7 @@ will commit every question solutions that I submit
 | [0645-set-mismatch](https://github.com/akapoor30/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akapoor30/DSA-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/akapoor30/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/akapoor30/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -180,6 +181,7 @@ will commit every question solutions that I submit
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akapoor30/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akapoor30/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akapoor30/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -268,6 +270,7 @@ will commit every question solutions that I submit
 | ------- |
 | [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akapoor30/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akapoor30/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -279,6 +282,7 @@ will commit every question solutions that I submit
 | [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akapoor30/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akapoor30/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akapoor30/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -368,16 +372,19 @@ will commit every question solutions that I submit
 | ------- |
 | [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akapoor30/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
