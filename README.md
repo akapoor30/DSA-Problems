@@ -227,6 +227,7 @@ will commit every question solutions that I submit
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/akapoor30/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akapoor30/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/akapoor30/DSA-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akapoor30/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -291,6 +292,7 @@ will commit every question solutions that I submit
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/akapoor30/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/akapoor30/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akapoor30/DSA-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/akapoor30/DSA-Problems/tree/master/1140-stone-game-ii) |
